@@ -6,7 +6,7 @@ sites:
   - name: ATzzz
     url: https://atzzz.com
     type: globalping
-    location : california
+    #location : california
   - name: MZkkk
     url: https://mzkkk.com
     type: globalping
