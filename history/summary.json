@@ -4,72 +4,80 @@
     "url": "https://atzzz.com",
     "icon": "https://icons.duckduckgo.com/ip3/atzzz.com.ico",
     "slug": "a-tzzz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
     "time": 1880,
     "timeDay": 1880,
     "timeWeek": 1880,
     "timeMonth": 1880,
     "timeYear": 1880,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-25": 0
+    }
   },
   {
     "name": "MZkkk",
     "url": "https://mzkkk.com",
     "icon": "https://icons.duckduckgo.com/ip3/mzkkk.com.ico",
     "slug": "m-zkkk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
     "time": 1222,
     "timeDay": 1222,
     "timeWeek": 1222,
     "timeMonth": 1222,
     "timeYear": 1222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-25": 0
+    }
   },
   {
     "name": "RssHub",
     "url": "https://rsshub.isrss.com",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.isrss.com.ico",
     "slug": "rss-hub",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 1212,
     "timeDay": 1212,
     "timeWeek": 1212,
     "timeMonth": 1212,
     "timeYear": 1212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-25": 0
+    }
   },
   {
     "name": "NewRSS",
     "url": "https://isrss.com",
     "icon": "https://icons.duckduckgo.com/ip3/isrss.com.ico",
     "slug": "new-rss",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 946,
     "timeDay": 946,
     "timeWeek": 946,
     "timeMonth": 946,
     "timeYear": 946,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-25": 0
+    }
   },
   {
     "name": "IPv6 test",
