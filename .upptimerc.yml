@@ -20,8 +20,8 @@ sites:
     #type: globalping
     #location : california
   - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+    url: google.com
+    port: 443
     check: "tcp-ping"
     ipv6: true
 
