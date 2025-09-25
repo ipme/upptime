@@ -9,6 +9,8 @@ sites:
     url: https://note.atzzz.com
   - name: GitHub Proxy
     url: https://github.atzzz.com
+  - name: ATzzz-img
+    url: https://imgs.atzzz.com
   - name: MZkkk
     url: https://mzkkk.com
   - name: RssHub
