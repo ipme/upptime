@@ -19,8 +19,8 @@ sites:
     url: https://isrss.com
     type: globalping
     location: california
-  - name: IPv6 test
-    url: http://ipv6.google.com
+  - name: Google IPv6
+    url: http://www.google.com
     port: 80
     check: "tcp-ping"
     ipv6: true
