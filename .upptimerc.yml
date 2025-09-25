@@ -13,12 +13,12 @@ sites:
     location : california
   - name: RssHub
     url: https://rsshub.isrss.com
-    type: globalping
-    location : california
+    #type: globalping
+    #location : california
   - name: NewRSS
     url: https://isrss.com
-    type: globalping
-    location : california
+    #type: globalping
+    #location : california
   - name: IPv6 test
     url: forwardemail.net
     port: 80
