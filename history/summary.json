@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/atzzz.com.ico",
     "slug": "a-tzzz",
     "status": "up",
-    "uptime": "4.04%",
-    "uptimeDay": "4.04%",
-    "uptimeWeek": "4.04%",
-    "uptimeMonth": "4.04%",
-    "uptimeYear": "4.04%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1880,
     "timeDay": 1880,
     "timeWeek": 1880,
     "timeMonth": 1880,
     "timeYear": 1880,
-    "dailyMinutesDown": {
-      "2025-09-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MZkkk",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mzkkk.com.ico",
     "slug": "m-zkkk",
     "status": "up",
-    "uptime": "3.05%",
-    "uptimeDay": "3.05%",
-    "uptimeWeek": "3.05%",
-    "uptimeMonth": "3.05%",
-    "uptimeYear": "3.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1222,
     "timeDay": 1222,
     "timeWeek": 1222,
     "timeMonth": 1222,
     "timeYear": 1222,
-    "dailyMinutesDown": {
-      "2025-09-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RssHub",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.isrss.com.ico",
     "slug": "rss-hub",
     "status": "up",
-    "uptime": "2.26%",
-    "uptimeDay": "2.26%",
-    "uptimeWeek": "2.26%",
-    "uptimeMonth": "2.26%",
-    "uptimeYear": "2.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1212,
     "timeDay": 1212,
     "timeWeek": 1212,
     "timeMonth": 1212,
     "timeYear": 1212,
-    "dailyMinutesDown": {
-      "2025-09-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NewRSS",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/isrss.com.ico",
     "slug": "new-rss",
     "status": "up",
-    "uptime": "1.06%",
-    "uptimeDay": "1.06%",
-    "uptimeWeek": "1.06%",
-    "uptimeMonth": "1.06%",
-    "uptimeYear": "1.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 946,
     "timeDay": 946,
     "timeWeek": 946,
     "timeMonth": 946,
     "timeYear": 946,
-    "dailyMinutesDown": {
-      "2025-09-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IPv6 test",
