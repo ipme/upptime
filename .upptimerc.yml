@@ -22,7 +22,7 @@ sites:
   - name: Google IPv6
     url: http://www.google.com
     #port: 443
-    check: "tcp-ping"
+    #check: "tcp-ping"
     ipv6: true
 
 status-website:
