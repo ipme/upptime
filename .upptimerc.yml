@@ -5,23 +5,23 @@ repo: upptime # The name of this repository
 sites:
   - name: ATzzz
     url: https://atzzz.com
-    type: globalping
-    location: california
+  #type: globalping
+  #location: california
   - name: MZkkk
     url: https://mzkkk.com
-    type: globalping
-    location: california
+  #type: globalping
+  #location: california
   - name: RssHub
     url: https://rsshub.isrss.com
-    type: globalping
-    location: california
+  #type: globalping
+  #location: california
   - name: NewRSS
     url: https://isrss.com
-    type: globalping
-    location: california
+  #type: globalping
+  #location: california
   - name: Google IPv6
     url: http://www.google.com
-    port: 80
+    #port: 443
     check: "tcp-ping"
     ipv6: true
 
@@ -40,6 +40,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+User-Agent: ipme/upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
