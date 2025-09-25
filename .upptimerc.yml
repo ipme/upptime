@@ -5,20 +5,20 @@ repo: upptime # The name of this repository
 sites:
   - name: ATzzz
     url: https://atzzz.com
-    type: globalping
-    location : california
+    #type: globalping
+    #location : california
   - name: MZkkk
     url: https://mzkkk.com
-    type: globalping
-    location : california
+    #type: globalping
+    #location : california
   - name: RssHub
     url: https://rsshub.isrss.com
-    type: globalping
-    location : california
+    #type: globalping
+    #location : california
   - name: NewRSS
     url: https://isrss.com
-    type: globalping
-    location : california
+    #type: globalping
+    #location : california
   - name: IPv6 test
     url: forwardemail.net
     port: 80
