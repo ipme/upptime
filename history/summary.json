@@ -12,7 +12,7 @@
     "uptimeYear": "90.38%",
     "time": 1720,
     "timeDay": 2680,
-    "timeWeek": 1782,
+    "timeWeek": 1780,
     "timeMonth": 1720,
     "timeYear": 1720,
     "dailyMinutesDown": {
@@ -39,10 +39,10 @@
     "url": "https://note.atzzz.com",
     "icon": "https://icons.duckduckgo.com/ip3/note.atzzz.com.ico",
     "slug": "note",
-    "status": "up",
+    "status": "down",
     "uptime": "97.80%",
-    "uptimeDay": "82.88%",
-    "uptimeWeek": "94.31%",
+    "uptimeDay": "82.83%",
+    "uptimeWeek": "94.30%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "97.80%",
     "time": 736,
@@ -51,7 +51,7 @@
     "timeMonth": 736,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2025-10-13": 247,
+      "2025-10-13": 248,
       "2025-10-12": 227,
       "2025-10-11": 101
     }
