@@ -4,16 +4,16 @@
     "url": "https://atzzz.com",
     "icon": "https://icons.duckduckgo.com/ip3/atzzz.com.ico",
     "slug": "a-tzzz",
-    "status": "up",
-    "uptime": "95.24%",
-    "uptimeDay": "92.45%",
-    "uptimeWeek": "89.23%",
-    "uptimeMonth": "93.26%",
-    "uptimeYear": "95.24%",
+    "status": "down",
+    "uptime": "95.27%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "89.26%",
+    "uptimeMonth": "93.29%",
+    "uptimeYear": "95.27%",
     "time": 1982,
-    "timeDay": 2030,
-    "timeWeek": 2196,
-    "timeMonth": 2126,
+    "timeDay": 2057,
+    "timeWeek": 2205,
+    "timeMonth": 2129,
     "timeYear": 1982,
     "dailyMinutesDown": {
       "2025-11-07": 73,
@@ -30,8 +30,7 @@
       "2025-10-27": 205,
       "2025-10-26": 171,
       "2025-10-25": 264,
-      "2025-10-24": 163,
-      "2025-10-23": 17
+      "2025-10-24": 163
     }
   },
   {
