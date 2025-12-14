@@ -15,6 +15,8 @@ sites:
     url: https://mzkkk.com
   - name: RssHub
     url: https://rsshub.isrss.com
+  - name: Hugging-Face-RSSHub
+    url: https://huggingface.co/spaces/cnwww/RSSHub
   - name: NewRSS
     url: https://isrss.com
   - name: Google IPv6
