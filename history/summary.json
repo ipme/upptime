@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "95.14%",
     "uptimeDay": "93.53%",
-    "uptimeWeek": "86.00%",
+    "uptimeWeek": "86.11%",
     "uptimeMonth": "85.78%",
     "uptimeYear": "95.14%",
     "time": 2128,
     "timeDay": 2022,
     "timeWeek": 2293,
-    "timeMonth": 2271,
+    "timeMonth": 2274,
     "timeYear": 2128,
     "dailyMinutesDown": {
       "2025-12-23": 47,
@@ -103,12 +103,12 @@
     "url": "https://mzkkk.com",
     "icon": "https://icons.duckduckgo.com/ip3/mzkkk.com.ico",
     "slug": "m-zkkk",
-    "status": "up",
-    "uptime": "94.54%",
-    "uptimeDay": "29.69%",
-    "uptimeWeek": "34.83%",
-    "uptimeMonth": "84.03%",
-    "uptimeYear": "94.54%",
+    "status": "down",
+    "uptime": "94.61%",
+    "uptimeDay": "31.16%",
+    "uptimeWeek": "34.94%",
+    "uptimeMonth": "84.24%",
+    "uptimeYear": "94.61%",
     "time": 3139,
     "timeDay": 4041,
     "timeWeek": 4205,
@@ -122,7 +122,7 @@
       "2025-12-19": 1031,
       "2025-12-18": 865,
       "2025-12-17": 1018,
-      "2025-12-16": 775
+      "2025-12-16": 682
     }
   },
   {
@@ -292,7 +292,7 @@
     "timeMonth": 101,
     "timeYear": 2406,
     "dailyMinutesDown": {
-      "2025-12-23": 918,
+      "2025-12-23": 940,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
