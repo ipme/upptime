@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/atzzz.com.ico",
     "slug": "a-tzzz",
     "status": "up",
-    "uptime": "95.24%",
-    "uptimeDay": "89.40%",
-    "uptimeWeek": "86.78%",
-    "uptimeMonth": "85.87%",
-    "uptimeYear": "95.24%",
+    "uptime": "95.22%",
+    "uptimeDay": "90.18%",
+    "uptimeWeek": "86.89%",
+    "uptimeMonth": "85.83%",
+    "uptimeYear": "95.22%",
     "time": 2128,
     "timeDay": 2111,
-    "timeWeek": 2257,
+    "timeWeek": 2267,
     "timeMonth": 2249,
     "timeYear": 2128,
     "dailyMinutesDown": {
-      "2025-12-24": 134,
+      "2025-12-24": 123,
       "2025-12-23": 65,
       "2025-12-22": 211,
       "2025-12-21": 264,
@@ -34,7 +34,7 @@
       "2025-12-09": 176,
       "2025-12-08": 204,
       "2025-12-07": 345,
-      "2025-12-06": 123
+      "2025-12-06": 154
     }
   },
   {
@@ -103,15 +103,15 @@
     "url": "https://mzkkk.com",
     "icon": "https://icons.duckduckgo.com/ip3/mzkkk.com.ico",
     "slug": "m-zkkk",
-    "status": "up",
-    "uptime": "94.74%",
-    "uptimeDay": "33.50%",
-    "uptimeWeek": "35.41%",
-    "uptimeMonth": "84.40%",
-    "uptimeYear": "94.74%",
+    "status": "down",
+    "uptime": "94.86%",
+    "uptimeDay": "33.51%",
+    "uptimeWeek": "35.45%",
+    "uptimeMonth": "84.76%",
+    "uptimeYear": "94.86%",
     "time": 3176,
-    "timeDay": 3678,
-    "timeWeek": 4197,
+    "timeDay": 3532,
+    "timeWeek": 4187,
     "timeMonth": 4194,
     "timeYear": 3176,
     "dailyMinutesDown": {
@@ -122,7 +122,7 @@
       "2025-12-20": 908,
       "2025-12-19": 1031,
       "2025-12-18": 865,
-      "2025-12-17": 409
+      "2025-12-17": 249
     }
   },
   {
@@ -292,7 +292,7 @@
     "timeMonth": 140,
     "timeYear": 2372,
     "dailyMinutesDown": {
-      "2025-12-24": 1253,
+      "2025-12-24": 1261,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
